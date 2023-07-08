@@ -141,4 +141,11 @@ main {
 }
 .info-title{
     font-weight: normal;
+    color: #181818;
+}
+#What-i-do-des{
+    padding: 30px 150px;
+}
+.skills-container{
+    display: flex;
 }
